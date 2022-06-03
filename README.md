@@ -1,2 +1,0 @@
-# Code
-Adele_Souleymanova_Projet_6_NLP
